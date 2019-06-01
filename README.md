@@ -21,5 +21,3 @@ Main Window:
 -"Get db" takes the URL and the HTML code form the db inside which is saved, and it shows the URL.
 
 Each time the content of an article is displayed, the link, the text, the keywords and the html are saved in our SQL Server database.
-
-
